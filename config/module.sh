@@ -1,1 +1,1 @@
-module-lite.sh
+iot_module-lite-hevc.sh
