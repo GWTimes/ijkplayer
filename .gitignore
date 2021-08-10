@@ -1,10 +1,11 @@
 # -----
-build/
 ffmpeg-temp/
 android/ffmpeg-*
 android/openssl-*
 ios/ffmpeg-*
 ios/openssl-*
+ios/build/ffmpeg-*
+ios/build/openssl-*
 extra
 .DS_Store
 ijkmedia/ijkyuv/
@@ -34,7 +35,6 @@ local.properties
 # Android Studio
 .idea
 .gradle
-build/
 
 # Xcode
 xcuserdata
