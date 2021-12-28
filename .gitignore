@@ -4,8 +4,8 @@ android/ffmpeg-*
 android/openssl-*
 ios/ffmpeg-*
 ios/openssl-*
-ios/build/ffmpeg-*
-ios/build/openssl-*
+ios/build
+ios/IJKMediaPlayer/build
 extra
 .DS_Store
 ijkmedia/ijkyuv/
